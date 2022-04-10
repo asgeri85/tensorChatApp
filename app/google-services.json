@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087034936639",
+    "project_id": "bogazici-8cc64",
+    "storage_bucket": "bogazici-8cc64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087034936639:android:9c41dd31c7bbdee11d178a",
+        "android_client_info": {
+          "package_name": "com.example.bogazhackatonproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087034936639-n66tqp8oo4i57r2kisakv3ko43uncn82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkv87Pgp2xY3x5mRQTG3ta8p7A8k0g5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087034936639-n66tqp8oo4i57r2kisakv3ko43uncn82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
